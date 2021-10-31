@@ -20,7 +20,7 @@ export default function IndexPage() {
     <ThemeProvider theme={theme}>
       <StickyProvider>
         <Layout>
-          <SEO title="Landing page for Digi Mobile App" />
+          <SEO title="Digi Mobile Landing" />
           <Banner />
           <KeyFeature />
           <CoreFeature />
